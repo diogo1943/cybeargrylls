@@ -148,7 +148,7 @@ body {
     align-items: center;
     background-image: url("concepts.gif");
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: repeat;
 }
 
